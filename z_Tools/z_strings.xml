@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="app_host">altimit.systems</string>
+    <string name="app_name">RPGMakerMV</string>
+    <string name="app_scheme">htps</string>
+    <string name="mv_project_index">//android_asset/www/index.html</string>
+    <string name="query_noaudio">noaudio</string>
+    <string name="query_showfps">showfps</string>
+    <string name="query_webgl">webgl</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="webview_default_page">PCFbQ0RBVEFbIDwhRE9DVFlQRSBodG1sPg0KPGh0bWw+DQo8aGVhZD4NCjxtZXRhIGNoYXJzZXQ9VVRGLTg+DQo8c3R5 bGU+Ym9keXtiYWNrZ3JvdW5kLWNvbG9yOmJsYWNrfSNjb3B5cmlnaHR7cG9zaXRpb246Zml4ZWQ7Ym90dG9tOjA7cmln aHQ6MDtjb2xvcjp3aGl0ZTtmb250LWZhbWlseTpDb25zb2xhcyxNb25hY28sTHVjaWRhIENvbnNvbGUsTGliZXJhdGlv biBNb25vLERlamFWdSBTYW5zIE1vbm8sQml0c3RyZWFtIFZlcmEgU2FucyBNb25vLENvdXJpZXIgTmV3LG1vbm9zcGFj ZX08L3N0eWxlPg0KPC9oZWFkPg0KPGJvZHkgb25sb2FkPWJvb3Quc3RhcnQoKT4NCjxkaXYgaWQ9Y29weXJpZ2h0PiYj MTY5OyAmIzkyMztMVElNSVQgQ09NTVVOSVRZIENPTlRSSUJVVE9SUzwvZGl2Pg0KPC9ib2R5Pg0KPC9odG1sPg0KXV0+</string>
+    <string name="webview_detection_source">dmFyIHdlYmdsPWZ1bmN0aW9uKCl7dHJ5e3ZhciBlPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImNhbnZhcyIpO3JldHVy biEoIWUuZ2V0Q29udGV4dCgid2ViZ2wiKSYmIWUuZ2V0Q29udGV4dCgiZXhwZXJpbWVudGFsLXdlYmdsIikpfWNhdGNo KGUpe3JldHVybiBjb25zb2xlLmxvZyhlKSwhMX19LHdlYmF1ZGlvPWZ1bmN0aW9uKCl7dHJ5e3ZhciBlPW51bGw7cmV0 dXJuInVuZGVmaW5lZCIhPXR5cGVvZiBBdWRpb0NvbnRleHQ/ZT1uZXcgQXVkaW9Db250ZXh0OiJ1bmRlZmluZWQiIT10 eXBlb2Ygd2Via2l0QXVkaW9Db250ZXh0JiYoZT1uZXcgd2Via2l0QXVkaW9Db250ZXh0KSwhIWV9Y2F0Y2goZSl7cmV0 dXJuIGNvbnNvbGUubG9nKGUpLCExfX07</string>
+</resources>

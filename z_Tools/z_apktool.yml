@@ -1,0 +1,21 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: tmpAPK.apk
+compressionType: false
+doNotCompress: null
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '27'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 26.0.1
+versionInfo:
+  versionCode: '9000'
+  versionName: '1.0'
